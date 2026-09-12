@@ -1,6 +1,5 @@
 # Week 1
 This folder contains my Week 1 C++ practice work.
-
 ## What I learned
 
 - A repository is a record date structure or database, of an individual's project history. Any changes made to it and the history is indicated through commits with time stamps and any descriptions explaining said change.
